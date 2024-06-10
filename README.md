@@ -1,6 +1,6 @@
 # Hi there, I'm Prateek Sharma 👋
 
-## 🚀 About Me
+## About Me
 
 I am a software developer with a robust background in software development and a keen interest in AI and data science. My journey in the tech world has been diverse, ranging from working on cutting-edge projects in large corporations to my current role at a startup.
 
