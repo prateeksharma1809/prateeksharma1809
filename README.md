@@ -118,3 +118,5 @@ _Jun 2014 – Feb 2015_
 ![image](https://github.com/prateeksharma1809/prateeksharma1809/assets/109249875/0ebbe8ac-ff5e-4c3e-997c-593f26a2afe1)
 
 Visit my hacker rank profile for more: https://www.hackerrank.com/profile/ps2798
+
+![Profile Views](https://komarev.com/ghpvc/?username=prateeksharma1809&color=brightgreen&style=for-the-badge&abbreviated=true)
