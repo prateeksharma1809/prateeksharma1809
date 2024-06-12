@@ -26,6 +26,12 @@ I am a software developer with a robust background in software development and a
 
 ### 💼 Work Experience
 
+**Software Developer - Intern** at Tilaverse Inc
+_Remote | May 2024 – Aug 2024_
+ - Led a software development team and coordinated with management to align goals, achieving a 30% improvement in project delivery times. Communicated effectively across teams to synchronize workflows and ensure cohesive project execution.
+ - Contributed to the planning and development of a new product, proposing a modern tech stack (ReactJS with TypeScript, Node.js, MongoDB, PostgreSQL, and Python with Django) that enhanced performance and scalability, leading to a 25% increase in development efficiency.
+ - Updated the main website to use PHP as a backend, increasing interactivity and data processing capabilities by 40%. Implemented Docker for seamless deployment, and collaborated with DevOps to ensure a robust CICD pipeline.
+
 **Advanced Software Developer** at Amdocs  
 _Pune, India | Nov 2018 – May 2022_  
 - Spearheaded the development and deployment of innovative microservices for product price discovery.
