@@ -75,7 +75,6 @@ _Rajasthan Technical University (GPA 3.6/4) | Aug 2011 – Jul 2015_
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
-![image](https://github.com/prateeksharma1809/prateeksharma1809/assets/109249875/3b0c0002-4d99-4907-8a2e-0002225db79a)
 
 
 ### 🏆 Projects
