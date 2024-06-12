@@ -83,8 +83,7 @@ _May 2024 - Jun 2024_
  - Led a comprehensive analysis of 2014 and 2019 Lok Sabha elections data, utilizing Python and pandas, resulting in a 30% increase in data accuracy and visualization clarity.
  - Identified key insights such as a 25% shift in voter preferences and highlighted top constituencies with the highest NOTA votes, enhancing understanding of electoral patterns.
  - Created and presented impactful visualizations, increasing audience engagement by 40%, and uploaded the complete code solution to GitHub for transparency and further analysis.
- - [YouTube](https://www.youtube.com/watch?v=8PnBp4qENeU)
- - [GitHub](https://github.com/prateeksharma1809/codebasics-resume-project-challenge)
+ - [YouTube](https://www.youtube.com/watch?v=8PnBp4qENeU) [GitHub](https://github.com/prateeksharma1809/codebasics-resume-project-challenge)
 
 **Unveiling E-Commerce Customer Behaviors**  
 _Feb 2024 – Apr 2024_  
