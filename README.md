@@ -21,8 +21,9 @@ I am a software developer with a robust background in software development and a
 ⚡ Fun fact: I founded the SKIT Robotics Club, leading embedded systems workshops and expanding technical education outreach.
 
 ---
+<img src="https://github.com/user-attachments/assets/8722437b-e70a-4c71-ab96-c4c6cc89f2ff" width="300">
+<!-- ![leetcode100](https://github.com/user-attachments/assets/8722437b-e70a-4c71-ab96-c4c6cc89f2ff) -->
 
-![leetcode_award](https://github.com/user-attachments/assets/3f1659b8-b60e-45b0-a8c9-dee14c7b67a5)
 
 
 
