@@ -1,18 +1,11 @@
 # Hi there, I'm Prateek Sharma 👋
 
 ## About Me
+I’m a software developer with 7 years of experience across backend systems, full-stack web apps, and data-centric products. I recently completed my coursework for a Master’s in Computer Science at Rochester Institute of Technology (GPA: 3.9) and am currently working on my capstone project this Fall. I am **actively seeking full-time roles** in **Software Development**, and I am available to start immediately—even during my capstone.
 
-I am a software developer with a robust background in software development and a keen interest in AI and data science. My journey in the tech world has been diverse, ranging from working on cutting-edge projects in large corporations to my current role at a startup.
+🚀 I recently interned at **Tilaverse Inc.**, where I led a small dev team to build a full-stack AI-powered learning platform using React, Django, and Docker.
 
-🔭 I’m currently working in a startup as a software developer intern, developing an application with a mission to revolutionize the learning experience by integrating AI and data science and customizing the experience to individual learner.
-
-🌱 I’m currently learning AI and data science, and I am enrolled in the Master's in Computer Science program at the Rochester Institute of Technology.
-
-👯 I’m looking to collaborate on anything related to software development, AI, and data science.
-
-🤔 I’m looking for help connecting with people and working on projects that will help me develop my skills further.
-
-💬 Ask me about anything.
+💡 I'm passionate about building scalable systems, solving real-world problems with clean code, and applying AI/Data Science in meaningful ways.
 
 📫 How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/prateek-sharma18)
@@ -21,11 +14,6 @@ I am a software developer with a robust background in software development and a
 ⚡ Fun fact: I founded the SKIT Robotics Club, leading embedded systems workshops and expanding technical education outreach.
 
 ---
-<img src="https://github.com/user-attachments/assets/8722437b-e70a-4c71-ab96-c4c6cc89f2ff" width="300">
-<!-- ![leetcode100](https://github.com/user-attachments/assets/8722437b-e70a-4c71-ab96-c4c6cc89f2ff) -->
-
-
-
 
 ### 💼 Work Experience
 
@@ -118,6 +106,13 @@ _Jun 2014 – Feb 2015_
 - Volunteered at computer and robotics workshops for underprivileged kids, fostering interest in STEM.
 - Founded the SKIT Robotics Club, leading embedded systems workshops and expanding technical education outreach
 
+---
 ![image](https://github.com/prateeksharma1809/prateeksharma1809/assets/109249875/0ebbe8ac-ff5e-4c3e-997c-593f26a2afe1)
+---
+<img src="https://github.com/user-attachments/assets/8722437b-e70a-4c71-ab96-c4c6cc89f2ff" width="300">
+<!-- ![leetcode100](https://github.com/user-attachments/assets/8722437b-e70a-4c71-ab96-c4c6cc89f2ff) -->
 
+---
 Visit my hacker rank profile for more: https://www.hackerrank.com/profile/ps2798
+
+
