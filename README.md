@@ -7,9 +7,10 @@ I’m a software developer with 7 years of experience across backend systems, fu
 
 💡 I'm passionate about building scalable systems, solving real-world problems with clean code, and applying AI/Data Science in meaningful ways.
 
-📫 How to reach me: 
-- [LinkedIn](https://www.linkedin.com/in/prateek-sharma18)
-- Email: prateeksharma1809@gmail.com or ps2798@rit.edu
+📫 Reach me at:  
+- [LinkedIn](https://www.linkedin.com/in/prateek-sharma18)  
+- [Portfolio](https://prateeksharma18.netlify.app)  
+- Email: **prateeksharma1809@gmail.com**
 
 ⚡ Fun fact: I founded the SKIT Robotics Club, leading embedded systems workshops and expanding technical education outreach.
 
@@ -17,8 +18,14 @@ I’m a software developer with 7 years of experience across backend systems, fu
 
 ### 💼 Work Experience
 
+**Tech Lead – Sentari AI**  
+_NY, USA | Jun 2025 – Present_  
+- Leading full-stack development of a privacy-first AI journaling platform integrating **LLMs, Whisper transcription, and semantic search**.  
+- Architected backend with **FastAPI, PostgreSQL, Supabase** and an **iOS app with React Native & Expo**, deployed via **AWS ECS + Docker + ALB + IAM**.  
+- Built scalable APIs, automated insights, and set engineering best practices.  
+
 **Software Developer - Intern** at Tilaverse Inc
-_Remote | May 2024 – Aug 2024_
+_NY, USA | May 2024 – Aug 2024_
  - Led a software development team and coordinated with management to align goals, achieving a 30% improvement in project delivery times. Communicated effectively across teams to synchronize workflows and ensure cohesive project execution.
  - Contributed to the planning and development of a new product, proposing a modern tech stack (ReactJS with TypeScript, Node.js, MongoDB, PostgreSQL, and Python with Django) that enhanced performance and scalability, leading to a 25% increase in development efficiency.
  - Updated the main website to use PHP as a backend, increasing interactivity and data processing capabilities by 40%. Implemented Docker for seamless deployment, and collaborated with DevOps to ensure a robust CICD pipeline.
