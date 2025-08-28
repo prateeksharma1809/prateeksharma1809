@@ -24,25 +24,25 @@ _NY, USA | Jun 2025 – Present_
 - Architected backend with **FastAPI, PostgreSQL, Supabase** and an **iOS app with React Native & Expo**, deployed via **AWS ECS + Docker + ALB + IAM**.  
 - Built scalable APIs, automated insights, and set engineering best practices.  
 
-**Software Developer - Intern** at Tilaverse Inc
-_NY, USA | May 2024 – Aug 2024_
- - Led a software development team and coordinated with management to align goals, achieving a 30% improvement in project delivery times. Communicated effectively across teams to synchronize workflows and ensure cohesive project execution.
- - Contributed to the planning and development of a new product, proposing a modern tech stack (ReactJS with TypeScript, Node.js, MongoDB, PostgreSQL, and Python with Django) that enhanced performance and scalability, leading to a 25% increase in development efficiency.
- - Updated the main website to use PHP as a backend, increasing interactivity and data processing capabilities by 40%. Implemented Docker for seamless deployment, and collaborated with DevOps to ensure a robust CICD pipeline.
+**Software Development Lead (Intern) – Tilaverse Inc.**  
+_NY, USA | May 2024 – Aug 2024_  
+- Directed a team of 4 developers, delivering a **Django + React microservices platform on AWS**, improving system performance by 25%.  
+- Containerized apps with Docker and designed secure communication using JWT & REST APIs.  
+- Collaborated with DevOps and Data Science teams to streamline service integration.  
 
-**Advanced Software Developer** at Amdocs  
+**Advanced Software Developer - Amdocs.**  
 _Pune, India | Nov 2018 – May 2022_  
 - Spearheaded the development and deployment of innovative microservices for product price discovery.
 - Developed accessible, responsive, and functional user interfaces using HTML/CSS/React JS.
 - Led the technical assessment and recruitment, enhancing team proficiency.
 
-**Software Developer and Tester (Data Analytics and Automation)** at Infosys  
+**Software Developer and Tester (Data Analytics and Automation) - Infosys**  
 _Pune, India | Jan 2016 – Nov 2018_  
 - Utilized SQL, MySQL, and Oracle SQL for data manipulation and extraction.
 - Engineered a Java application to automate quality assurance processes.
 - Optimized data handling procedures for extensive datasets.
 
-**Systems Engineer** at Infosys  
+**Systems Engineer - Infosys**  
 _Mysore, India | Aug 2015 – Jan 2016_  
 - Conducted comprehensive analysis of training program effectiveness.
 - Collaborated with cross-functional teams to integrate new technologies.
@@ -60,22 +60,36 @@ _Rajasthan Technical University (GPA 3.6/4) | Aug 2011 – Jul 2015_
 ### 🛠 Technical Skills
 
 ### My Skills and Tools & Software I Use
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
+**Languages & Frameworks**  
+Java, Python, JavaScript, TypeScript, React, Redux, FastAPI, Django, Spring Boot  
+
+**ML & Data Tools**  
+PyTorch, TensorFlow, Scikit-learn, OpenCV, NumPy, Pandas, Jupyter, Vector Databases  
+
+**Cloud & DevOps**  
+AWS (ECS, ECR, RDS, EC2, IAM), Docker, Jenkins, Git, CI/CD  
+
+**Databases**  
+PostgreSQL, MySQL, MongoDB, Oracle  
 
 
 ### 🏆 Projects
+
+**🔹 Internal RAG Chatbot with RBAC (FinSolve Technologies)**  
+- Built a **FastAPI + GPT + Qdrant** chatbot for secure, role-specific document querying.  
+- Added modular RBAC authentication and Streamlit front-end for real-time responses.  
+
+**🔹 AI-Powered Blog Post Generator**  
+- REST API with **GPT-4o** for structured, SEO-ready blog generation.  
+- Automated daily posting with APScheduler + Docker.  
+
+**🔹 Image Enhancement with UNet + Dlib**  
+- Built an AI tool to enhance faces and replace backgrounds.  
+- Trained **UNet segmentation + facial landmarking** for production-quality results.  
+
+**🔹 Real-Time Face Recognition with YOLOv5**  
+- Developed a real-time recognition system with YOLOv5 + OpenCV.  
+- Achieved sub-second latency with custom-trained models.  
 
 **Data Analyst, Election Data Insights for AtliQ Media**
 _May 2024 - Jun 2024_
@@ -100,6 +114,10 @@ _Jun 2023 – Oct 2023_
 _Jun 2014 – Feb 2015_  
 - Reduced the cost of a 3D surround scanner using MATLAB and Image Processing.
 - Developed complex algorithms in C for precise camera movements and laser scanning sequences.
+
+  
+👉 Check out more in my [Repositories](https://github.com/prateeksharma1809?tab=repositories).  
+
 
 ### 🎖 Awards & Certifications
 
