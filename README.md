@@ -16,42 +16,11 @@ I’m a software developer with 7 years of experience across backend systems, fu
 
 ---
 
-### 💼 Work Experience
-
-**Tech Lead – Sentari AI**  
-_NY, USA | Jun 2025 – Present_  
-- Leading full-stack development of a privacy-first AI journaling platform integrating **LLMs, Whisper transcription, and semantic search**.  
-- Architected backend with **FastAPI, PostgreSQL, Supabase** and an **iOS app with React Native & Expo**, deployed via **AWS ECS + Docker + ALB + IAM**.  
-- Built scalable APIs, automated insights, and set engineering best practices.  
-
-**Software Development Lead (Intern) – Tilaverse Inc.**  
-_NY, USA | May 2024 – Aug 2024_  
-- Directed a team of 4 developers, delivering a **Django + React microservices platform on AWS**, improving system performance by 25%.  
-- Containerized apps with Docker and designed secure communication using JWT & REST APIs.  
-- Collaborated with DevOps and Data Science teams to streamline service integration.  
-
-**Advanced Software Developer - Amdocs.**  
-_Pune, India | Nov 2018 – May 2022_  
-- Spearheaded the development and deployment of innovative microservices for product price discovery.
-- Developed accessible, responsive, and functional user interfaces using HTML/CSS/React JS.
-- Led the technical assessment and recruitment, enhancing team proficiency.
-
-**Software Developer and Tester (Data Analytics and Automation) - Infosys**  
-_Pune, India | Jan 2016 – Nov 2018_  
-- Utilized SQL, MySQL, and Oracle SQL for data manipulation and extraction.
-- Engineered a Java application to automate quality assurance processes.
-- Optimized data handling procedures for extensive datasets.
-
-**Systems Engineer - Infosys**  
-_Mysore, India | Aug 2015 – Jan 2016_  
-- Conducted comprehensive analysis of training program effectiveness.
-- Collaborated with cross-functional teams to integrate new technologies.
-- Developed a custom C# tool to streamline scheduling processes.
 
 ### 📚 Education
 
 **Master of Science in Computer Science**  
-_Rochester Institute of Technology (GPA 4/4) | Aug 2023 – May 2025_  
+_Rochester Institute of Technology (GPA 4/4) | Aug 2023 – Dec 2025_  
 Relevant Coursework: Artificial Intelligence, Big Data, Advanced OOP (JAVA), Data Structures (Python)
 
 **Bachelor of Technology in Electronics and Communications**  
